@@ -22,8 +22,8 @@ public abstract class CreateWorldScreenMixin {
 
     @Inject(method = "createLevel", at = @At("HEAD"))
     private void forceHardcoreMixin(CallbackInfo info) {
-        field_24289 = Difficulty.HARD;
-        field_24290 = Difficulty.HARD;
-        hardcore = true;
+        field_24289 = Difficulty.EASY;
+        field_24290 = Difficulty.EASY;
+        hardcore = false;
     }
 }

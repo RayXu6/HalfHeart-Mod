@@ -10,12 +10,12 @@ public class HHHMod implements ModInitializer {
 
     public static Logger LOGGER = LogManager.getLogger();
 
-    public static final String MOD_ID = "hhhmod";
-    public static final String MOD_NAME = "Half Heart Hardcore";
+    public static final String MOD_ID = "hhmod";
+    public static final String MOD_NAME = "Half Heart";
 
     @Override
     public void onInitialize() {
-        log(Level.INFO, "Initializing");
+        log(Level.INFO, "启动中");
         //TODO: Initializer
     }
 

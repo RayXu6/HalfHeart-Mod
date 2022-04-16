@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
-  "id": "hhhmod",
+  "id": "hhmod",
   "version": "${version}",
-  "name": "Half Heart Hardcore",
-  "description": "Every world is hardcore and the player will have half a heart.",
+  "name": "Half Heart",
+  "description": "Half Heart NO Hardcore.",
   "authors": [
-    "DuncanRuns"
+    "DuncanRuns",
+	"RayXu6"
   ],
   "contributors": [],
   "contact": {
-    "homepage": "https://github.com/DuncanRuns/HalfHeartHardcore-Mod/",
-    "sources": "https://github.com/DuncanRuns/HalfHeartHardcore-Mod/"
+    "homepage": "https://github.com/RayXu6/HalfHeart-Mod",
+    "sources": "https://github.com/RayXu6/HalfHeart-Mod"
   },
   "license": "MIT",
   "icon": "assets/hhhmod/icon.png",
